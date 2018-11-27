@@ -48,6 +48,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 Specify what it takes to deploy your app.
 
+[DEMO_URL](https://fervent-kilby-31e9b8.netlify.com)
+
 ## Further Reading / Useful Links
 
 * [ember.js](https://emberjs.com/)
